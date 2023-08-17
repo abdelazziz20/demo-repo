@@ -1,2 +1,2 @@
 # demo-repo
-Thhis is my readme file for my demo-repo
+This is my readme file for my demo-repo
